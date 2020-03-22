@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GideonMax/lesson/issues"
   },
-  "homepage": "https://github.com/GideonMax/lesson#readme"
+  "homepage": "https://github.com/GideonMax/lesson#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
